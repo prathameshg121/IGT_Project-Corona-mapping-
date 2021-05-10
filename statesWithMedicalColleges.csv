@@ -1,0 +1,502 @@
+state,name,city,ownership,admissionCapacity,hospitalBeds
+A & N Islands,"Andaman & Nicobar Islands Insitute of Medical Sciences, Port Blair",Port Blair,Govt.,100,460
+Andhra Pradesh,ACSR Government Medical College Nellore,Nellore,Govt.,150,750
+Andhra Pradesh,"Alluri Sitaram Raju Academy of Medical Sciences, Eluru",Eluru,Trust,150,1070
+Andhra Pradesh,"Andhra Medical College, Visakhapatnam",Visakhapatnam,Govt.,200,2017
+Andhra Pradesh,"Apollo Institute of Medical Sciences and Research, Chittoor",Chittoor,Society,150,0
+Andhra Pradesh,"Dr. P.S.I. Medical College , Chinoutpalli",Chinoutpalli,Trust,150,398
+Andhra Pradesh,"Fathima Instt. of Medical Sciences, Kadapa",Kadapa,Trust,100,450
+Andhra Pradesh,Gayathri Vidya Parishad Inst. of Health Care & Med. Tech. Visakhapatnam,Visakhapatnam,Society,150,0
+Andhra Pradesh,"GITAM Institute of Medical Sciences and Research, Visakhapatam",Visakhapatanam,University,150,0
+Andhra Pradesh,"Government Medical College, Anantapuram",Anantapurram,Govt.,100,500
+Andhra Pradesh,"Government Siddhartha Medical College, Vijaywada",Vijaywada,Govt.,150,412
+Andhra Pradesh,"Great Eastern Medical School and Hospital,Srikakulam",Srikakulam,Trust,100,350
+Andhra Pradesh,"GSL Medical College, Rajahmundry",Rajahmundry,Trust,200,1000
+Andhra Pradesh,"Guntur Medical College, Guntur",Guntur,Govt.,200,1277
+Andhra Pradesh,"Katuri Medical College, Guntur",Guntur,Trust,150,900
+Andhra Pradesh,"Konaseema Institute of Med. Sci. & Research Foundation, Amalapuram",Amalapuram,Trust,150,879
+Andhra Pradesh,"Kurnool Medical College, Kurnool",Kurnool,Govt.,200,1050
+Andhra Pradesh,"Maharajah Institute of Medical Sciences, Vizianagaram",Vizianagaram,Trust,150,1050
+Andhra Pradesh,"Narayana Medical College, Nellore",Nellore,Trust,250,1550
+Andhra Pradesh,"Nimra Institute of Medical Sciences, Krishna Dist.",Krishna Dist.,Society,0,0
+Andhra Pradesh,"NRI Institute of Medical Sciences, Visakhapatnam",Visakhapatnam,Trust,150,360
+Andhra Pradesh,"NRI Medical College, Guntur",Guntur,Trust,150,1000
+Andhra Pradesh,"P E S Institute Of Medical Sciences and Research, Kuppam",Kuppam,Trust,150,750
+Andhra Pradesh,"Rajiv Gandhi Institute of Medical Sciences, Kadapa",Kadapa,Govt.,150,750
+Andhra Pradesh,"Rajiv Gandhi Institute of Medical Sciences, Srikakulam",Srikakulam,Govt.,100,300
+Andhra Pradesh,"Rajiv Gandhi Institute of Medical Sciences,Ongole, AP",Ongole,Govt.,100,300
+Andhra Pradesh,"Rangaraya Medical College, Kakinada",Kakinada,Govt.,200,1085
+Andhra Pradesh,"RVS Institute of Medical Sciences, Chittoor",Chittoor,Society,0,0
+Andhra Pradesh,"S V Medical College, Tirupati",Tirupati,Govt.,200,862
+Andhra Pradesh,"Santhiram Medical College, Nandyal",Nandyal,Trust,100,700
+Andhra Pradesh,"SVIM-Sri Padmavathi Medical College for Women, Alipiri Road, Tirupati",Tirupati,Govt.,150,650
+Andhra Pradesh,"Viswabharathi Medical College, Kurnool",Kurnool,Society,150,0
+Assam,"Assam Medical College, Dibrugarh",Dibrugarh,Govt.,170,1365
+Assam,"Fakhruddin Ali Ahmed Medical College, Barpeta, Assam","Barpeta,",Govt-Society,100,500
+Assam,"Gauhati Medical College, Guwahati",Guwahati,Govt.,156,1982
+Assam,"Jorhat Medical College & Hospital , Jorhat",Jorhat,Govt.,100,400
+Assam,"Silchar Medical College, Silchar",Silchar,Govt.,100,906
+Assam,"Tezpur Medical College & Hospital, Tezpur",Tezpur,Govt.,100,500
+Tripura,"Agartala Government Medical College,Agartala",Agartala,Govt.,100,695
+Tripura,"Tripura Medical College and Dr. B R A M Teaching Hospital, Agartala",Agartala,Trust,100,500
+Punjab,"Adesh Institute of Medical Sciences & Research, Bhatinda",Bhatinda,Trust,150,700
+Punjab,"Christian Medical College, Ludhiana",Ludhiana,Trust,75,650
+Punjab,"Dayanand Medical College & Hospital, Ludhiana",Ludhiana,Trust,100,1048
+Punjab,"Government Medical College, Amritsar",Amritsar,Govt.,200,1091
+Punjab,"Government Medical College, Patiala",Patiala,Govt.,200,1106
+Punjab,"Guru Govind Singh Medical College, Faridkot",Faridkot,Govt.,100,500
+Punjab,"Punjab Institute of Medical Sciences, Jalandhar",Jalandhar,Trust,150,500
+Punjab,"Sri Guru Ram Das Institute of Medical Sciences and Research, Sri Amritsar",Amritsar,Trust,150,875
+Rajasthan,"All India Institute of Medical Sciences, Jodhpur",Jodhpur,Govt.,100,0
+Rajasthan,"American International Institute of Medical Sciences, Bedwas",Bedwas,Private,0,0
+Rajasthan,"Ananta Institute of Medcial Sciences & Research Centre, Rajsamand",Rajsamand,Society,0,0
+Rajasthan,"Dr SN Medical College, Jodhpur",Jodhpur,Govt.,250,2831
+Rajasthan,"Geetanjali Medical College & Hospital,Udaipur",Udaipur,Trust,150,0
+Rajasthan,"Government Medical College, Kota",Kota,Govt.,150,1172
+Rajasthan,"Jaipur National University Institute of Medical Sciences and Research Centre, Jajatpur, Jaipur.",Jaipur,University,150,0
+Rajasthan,"Jawaharlal Nehru Medical College, Ajmer",Ajmer,Govt.,150,1328
+Rajasthan,"Jhalawar Medical College, Jhalawar",Jhalawar,Govt.,150,580
+Rajasthan,"Mahatma Gandhi Medical College and Hospital, Jaipur",Jaipur,Trust,150,0
+Rajasthan,"National Institute of Medical Science & Research, Jaipur",Jaipur,Trust,100,0
+Rajasthan,"Pacific Medical College & Hospital, Bhilo Ka Bedla, Udaipur",Udaipur,Trust,150,0
+Rajasthan,"Pacific Institute of Medical Sciences, Umarda, Udaipur.",Udaipur,Society,150,0
+Rajasthan,"R N T Medical College, Udaipur",Udaipur,Govt.,150,2006
+Rajasthan,"RUHS College of Medical Sciences, Jaipur",Jaipur,Govt.,100,322
+Rajasthan,"Sardar Patel Medical College, Bikaner",Bikaner,Govt.,250,2088
+Rajasthan,"SMS Medical College, Jaipur",Jaipur,Govt.,250,4734
+Sikkim,"Sikkim Manipal Institute of Medical Sciences, Gangtok",Gangtok,Trust,50,650
+Goa,"Goa Medical College, Panaji",Panaji,Govt.,150,1152
+Chandigarh,"Government Medical College, Chandigarh",Chandigarh,Govt.,100,0
+Chhattisgarh,All India Institute of Medical Sciences Raipur,Raipur,Govt,100,0
+Chhattisgarh,"Chandulal Chandrakar Memorial Medical College, Durg",Durg,Private,150,750
+Chhattisgarh,"Chhattisgarh Institute of Medical Sciences, Bilaspur",Bilaspur,Govt.,150,672
+Chhattisgarh,"Govt. Medical College, Ambikapur(Surguja)",Ambikapur,Govt.,0,414
+Chhattisgarh,"Government Medical College, Rajnandgaon",Rajnandgaon,Govt.,100,380
+Chhattisgarh,"Late Shri Baliram Kashyap Memorial NDMC Govt. Medical College, Jagdalpur",Jagdalpur,Govt.,100,470
+Chhattisgarh,"Late Shri Lakhi Ram Agrawal Memorial Govt. Medical College, Raigarh",Raigarh,Govt.,50,650
+Chhattisgarh,"Pt. J N M Medical College, Raipur",Raipur,Govt.,150,1153
+Chhattisgarh,"Raipur Institute of Medical Sciences(RIMS), Raipur.",Raipur,Society,0,300
+Chhattisgarh,"Shri Shankaracharya Institute of Medical Sciences, Bhilai",Bhilai,Society,150,350
+Haryana,"Adesh Medical College and Hospital, Sahabad, Kurushetra",Sahabad,society,150,0
+Haryana,"BPS Government Medical College for Women, Sonepat",Sonepat,Govt.,100,500
+Haryana,"Employees State Insurance Corporation Medical College, Faridabad",Faridabad,Govt.,100,0
+Haryana,"Faculty of Medicine and Health Sciences, Gurgaon",Gurgaon,Trust,150,0
+Haryana,"Kalpana Chawala Govt. Medical College, Karnal",Karnal,Govt.,100,0
+Haryana,"Maharaja Agrasen Medical College, Agroha",Agroha,Trust,100,450
+Haryana,"Maharishi Markandeshwar Instt. of Med. Sci. & Resh., Mullana, Ambala",Ambala,Trust,150,1063
+Haryana,"N.C. Medical College & Hospital, Panipath",Panipath,Trust,0,0
+Haryana,"Pt. B D Sharma Postgraduate Inst. of Medical Sciences, Rohtak (Haryana)",Rohtak,Govt.,200,1710
+Haryana,"Shaheed Hasan Khan Mewati Government Medical College, Nalhar",Nalhar,Govt.,100,500
+Haryana,"World College of Medical Sciences & Research, Jhajjar",Jhajjar,Trust,0,0
+Himachal Pradesh,"Dr. Rajendar Prasad Government Medical College, Tanda, H.P","Tanda,",Govt.,100,593
+Himachal Pradesh,"Government Medical College, Nahan, Sirmour",Sirmour,Govt.,100,300
+Himachal Pradesh,"Indira Gandhi Medical College, Shimla",Shimla,Govt.,100,835
+Himachal Pradesh,"Maharishi Markandeshwar Medical College & Hospital, Solan",Solan,Trust,150,300
+Himachal Pradesh,"Pt.Jawahar Lal Nehru Govt. Medicalcollege, Chamba",Chamba,Govt.,100,0
+Himachal Pradesh,"Shri Lal Bahadur Shastri Govt. Medical College, Mandi",Mandi,Govt.,100,0
+Jammu & Kashmir,"Acharya Shri Chander College of Medical Sciences, Jammu",Jammu,Trust,100,500
+Jammu & Kashmir,"Government Medical College, Jammu",Jammu,Govt.,150,2295
+Jammu & Kashmir,"Government Medical College, Srinagar",Srinagar,Govt.,150,2550
+Jammu & Kashmir,"Sher-I-Kashmir Instt. Of Medical Sciences, Srinagar",Srinagar,Govt.,100,250
+Jharkhand,"M G M Medical College, Jamshedpur",Jamshedpur,Govt.,100,514
+Jharkhand,"Patliputra Medical College, Dhanbad",Dhanbad,Govt.,50,500
+Jharkhand,"Rajendra Institute of Medical Sciences, Ranchi",Ranchi,Govt.,150,1500
+Karnataka,"A J Institute of Medical Sciences & Research Centre, Mangalore",Mangalore,Trust,150,900
+Karnataka,Adichunchanagiri Institute of Medical Sciences Bellur,Bellur,Trust,150,750
+Karnataka,"Akash Institute of Medical Sciences & Research Centre, Banglore",Banglore,Trust,150,0
+Karnataka,"Al-Ameen Medical College,Bijapur",Bijapur,Trust,100,760
+Karnataka,"Bangalore Medical College and Research Institute, Bangalore",Bangalore,Govt.,250,1475
+Karnataka,"Basaveswara Medical College and Hospital, Chitradurga",Chitradurga,Trust,100,628
+Karnataka,"Belagavi Institute of Medical Sciences, Belgaum",Belagavi,Govt.,150,740
+Karnataka,"BGS Global Institute of Medical Sciences, Bangalore",Bangalore,Trust,150,300
+Karnataka,"Bidar Institute of Medical Sciences,Bidar",Bidar,Govt.,150,500
+Karnataka,"Chamrajanagar Institute of Medical Sciences,",Chamrajanagar,Govt.,150,0
+Karnataka,"Dr BR Ambedkar Medical College, Bangalore",Bangalore,Trust,100,600
+Karnataka,"East Point College of Medical Sciences & Research Centre, Banglore",Banglore,Trust,150,0
+Karnataka,"Employees State Insurance Corporation Medical College, Bangalore",Bangalore,Govt.,100,500
+Karnataka,"Employees State Insurance Corporation Medical College, Gulbarga",Gulbarga,Govt.,100,0
+Karnataka,"Father Mullers Institue of Medical Education and Research, Mangalore",Mangalore,Trust,150,1250
+Karnataka,"Gadag Inst. of Medical Sciences, Mallasamudra, Mulgund Road, Gadag",Gadag,Govt.,150,0
+Karnataka,"Government Medical College, Mysore",Mysore,Govt.,150,1940
+Karnataka,"Gulbarga Institute of Medical Sciences, Gulbarga",Gulbarga,Govt.,150,0
+Karnataka,"Hassan Institute of Medical Sciences, Hassan",Hassan,Govt.,150,500
+Karnataka,"Jawaharlal Nehru Medical College, Belgaum",Belgaum,Trust,200,2200
+Karnataka,"JJM Medical College, Davangere",Davangere,Trust,245,2069
+Karnataka,"JSS Medical College, Mysore",Mysore,Trust,200,1050
+Karnataka,"K S Hegde Medical Academy, Mangalore",Mangalore,Trust,150,1200
+Karnataka,"K V G Medical College, Sullia",Sullia,Trust,100,570
+Karnataka,"Kanachur Institute of Medical Sciences, Manglore",Mangalore,Trust,150,0
+Karnataka,"Karnataka Institute of Medical Sciences, Hubli",Hubli,Govt.,200,1200
+Karnataka,"Karwar Institute of Medical Sciences, Karwar",Karwar,Govt.,150,0
+Karnataka,"Kasturba Medical College, Mangalore",Mangalore,Trust,250,1280
+Karnataka,"Kasturba Medical College, Manipal",Manipal,Trust,250,2032
+Karnataka,"Kempegowda Institute of Medical Sciences, Bangalore",Bangalore,Trust,120,1100
+Karnataka,"Khaja Banda Nawaz Institute of Medical Sciences, Gulbarga",Gulbarga,Trust,100,540
+Karnataka,"Kodagu Institute of Medical Sciences, Kodagu",Kodagu,Govt.,150,0
+Karnataka,"Koppal Institute of Medical Sciences, Koppal",Koppal,Govt.,150,0
+Karnataka,"M S Ramaiah Medical College, Bangalore",Bangalore,Trust,150,1331
+Karnataka,"Mahadevappa Rampure Medical College, Gulbarga",Gulbarga,Trust,150,1073
+Karnataka,"Mandya Institute of Medical Sciences, Mandya",Mandya,Govt.,150,580
+Karnataka,"MVJ Medical College and Research Hospital, Bangalore",Bangalore,Trust,150,900
+Karnataka,"Navodaya Medical College, Raichur",Raichur,Trust,150,860
+Karnataka,"Raichur Institute of Medical Sciences,Raichur",Raichur,Govt.,150,550
+Karnataka,"Rajarajeswari Medical College & Hospital, Bangalore",Bangalore,Trust,250,1110
+Karnataka,"S S Institute of Medical Sciences& Research Centre, Davangere",Davangere,Trust,150,930
+Karnataka,"S. Nijalingappa Med. College & HSK Hospital & Research Centre, Bagalkot",Bagalkot,Trust,150,820
+Karnataka,"Sambhram Institute of Medical Sciences & Research, Kolar",Kolar,Trust,0,0
+Karnataka,"Sapthagiri Institute of Medical Sciences & Research Centre, Bangalore",Bangalore,Trust,150,640
+Karnataka,"SDM Medical Siences & HospitalCollege , Sattur, Dharwad",Dharwad,Trust,100,700
+Karnataka,"Shimoga Institute of Medical Sciences,Shimoga",Shimoga,Govt.,150,650
+Karnataka,"Shri B M Patil Medical College, Hospital & Research Centre, Bijapur",Bijapur,Trust,150,797
+Karnataka,"Shridevi Institute of Medical Sciences & Research Hospital, Tumkur",Tumkur,Trust,150,300
+Karnataka,"Sri Devaraj URS Medical College, Kolar",Kolar,Trust,150,1139
+Karnataka,"Sri Siddhartha Medical College, Tumkur",Tumkur,Trust,130,1100
+Karnataka,"Srinivas Institute of Medical Research Centre, Srinivasnagar",Srinivasnagar,Trust,150,501
+Karnataka,"St. Johns Medical College, Bangalore",Bangalore,Trust,150,1200
+Karnataka,"Subbaiah Institute of Medical Sciences, Shimoga, Karnataka","Shimoga,",Trust,150,345
+Karnataka,"The Oxford Medical College, Hospital & Research Centre, Bangalore",Bangalore,Society,150,0
+Karnataka,"Vijaynagar Institute of Medical Sciences, Bellary",Bellary,Govt.,150,1017
+Karnataka,"Vydehi Institute Of Medical Sciences & Research Centre, Bangalore",Bangalore,Trust,250,1100
+Karnataka,"Yenepoya Medical College, Mangalore",Mangalore,Trust,150,929
+Maharastra,"ACPM Medical College, Dhule",Dhule,Trust,0,0
+Maharastra,"Armed Forces Medical College, Pune",Pune,Govt.,140,0
+Maharastra,"Ashwini Rural Medical College, Hospital & Research Centre, Solapur",Solapur,Trust,100,0
+Maharastra,"B. J. Govt. Medical College, Pune",Pune,Govt.,200,0
+Maharastra,"B.K.L Walawalkar Rural Medical College, Ratnagiri",Ratnagiri,Trust,100,0
+Maharastra,"Bharati Vidyapeeth Deemed University Medical College & Hospital, Sangli",Sangli,Trust,150,0
+Maharastra,"Bharati Vidyapeeth University Medical College, Pune",Pune,Trust,150,0
+Maharastra,"Dr Vaishampayan Memorial Medical College, Solapur",Solapur,Govt.,150,0
+Maharastra,"Dr. D. Y. Patil Med. college, Hospital and Research Centre, Pimpri, Pune",Pune,Trust,250,0
+Maharastra,"Dr. D Y Patil Medical College, Kolhapur",Kolhapur,Trust,150,0
+Maharastra,"Dr. Panjabrao Alias Bhausaheb Deshmukh Memorial Med. College ,Amravati",Amravati,Trust,100,0
+Maharastra,"Dr. Shankarrao Chavan Govt. Medical College, Nanded",Nanded,Govt.,100,0
+Maharastra,"Dr. Ulhas Patil Medical College & Hospital, Jalgaon",Jalgaon,Trust,100,0
+Maharastra,"Dr.Vasantrao Pawar Med. Col. Hosp. & Research Centre, Nasik (Prev. NDMVP Samaj Medical College)",Nasik,Trust,120,0
+Maharastra,"Government Medical College , Latur",Latur,Govt.,150,0
+Maharastra,"Government Medical College, Akola",Akola,Govt.,150,0
+Maharastra,"Government Medical College, Aurangabad",Aurangabad,Govt.,150,0
+Maharastra,"Government Medical College, Chandrapur",Chandrapur,Govt.,100,0
+Maharastra,"Government Medical College, Gondia",Gondia,Govt.,100,0
+Maharastra,"Government Medical College, Miraj",Miraj,Govt.,150,0
+Maharastra,"Government Medical College, Nagpur",Nagpur,Govt.,200,0
+Maharastra,"Grant Medical College, Mumbai",Mumbai,Govt.,200,0
+Maharastra,"H.B.T. Medical College and Dr. R.N. Cooper Municipal General Hospital, Juhu, Mumbai",Mumbai,Govt.,150,0
+Maharastra,"Indian Institute of Medical Science & Research, Jalna",Jalna,Trust,100,0
+Maharastra,"Indira Gandhi Medical College & Hospital, Nagpur",Nagpur,Govt.,150,0
+Maharastra,"Jawaharlal Nehru Medical College, Sawangi (Meghe), Wardha",Wardha,Trust,200,0
+Maharastra,"KJ Somaiyya Medical College & Research Centre, Mumbai",Mumbai,Trust,50,0
+Maharastra,"Krishna Institute of Medical Sciences, Karad",Karad,Trust,200,0
+Maharastra,"Lokmanya Tilak Municipal Medical College, Sion, Mumbai",Mumbai,Govt.,150,0
+Maharastra,"Maharashtra Institute of Medical Sciences & Research, Latur",Latur,Trust,150,0
+Maharastra,"Maharashtra Institute of Medical Education & Research, Talegaon, Pune",Pune,Trust,100,0
+Maharastra,"Mahatma Gandhi Institute of Medical Sciences, Sevagram, Wardha",Wardha,Trust,100,0
+Maharastra,"Mahatma Gandhi Missions Medical College, Aurangabad",Aurangabad,Trust,150,0
+Maharastra,"Mahatma Gandhi Missions Medical College, Navi Mumbai",Mumbai,Trust,150,0
+Maharastra,N. K. P. Salve Instt. of Medical Sciences and Research Centre and Lata,Nagpur,Trust,150,0
+Maharastra,"Padmashree Dr. D.Y.Patil Medical College, Navi Mumbai",Navi Mumbai,Trust,250,0
+Maharastra,"Padmashri Dr. Vithalrao Vikhe Patil Foundations Med. College ,Ahmednagar",Ahmednagar,Trust,150,0
+Maharastra,"Prakash Institute of Medicval Sciences & Research, Sangli Road, Uran Islampur, Maharastra",Uran Islampur,Trust,150,0
+Maharastra,"Rajashree Chatrapati Shahu Maharaj Government Medical College, Kolhapur",Kolhapur,Govt.,150,0
+Maharastra,"Rajiv Gandhi Medical College and Chhatrapati Shivaji Maharaj Hospital,",Thane,Govt.,60,0
+Maharastra,"Rural Medical College, Loni",Loni,Trust,200,0
+Maharastra,"Seth GS Medical College, Mumbai",Mumbai,Govt.,180,0
+Maharastra,"Shri Vasant Rao Naik Govt. Medical College, Yavatmal",Yavatmal,Govt.,150,0
+Maharastra,"SMBT Institute of Medical Sciences & Research Centre, Nandihills, Nashik",Nashik,Trust,150,0
+Maharastra,"Smt. Kashibai Navale Medical College and General Hospital,Pune",Pune,Trust,150,0
+Maharastra,"Sri Bhausaheb Hire Government Medical College, Dhule",Dhule,Govt.,100,0
+Maharastra,"SRTR Medical College, Ambajogai",Ambajogai,Govt.,100,0
+Maharastra,"Terna Medical College, Navi Mumbai",Mumbai,Trust,100,0
+Maharastra,"Topiwala National Medical College, Mumbai",Mumbai,Govt.,120,0
+Maharastra,"Medical Sciences, Palghar",Palghar,Private,150,0
+Manipur,"Jawaharlal Nehru Institute of Medical Sciences,Porompet,Imphal",Imphal,Govt.,100,0
+Manipur,"Regional Institute of Medical Sciences, Imphal",Imphal,Govt.,100,0
+Meghalaya,"North Eastern Indira Gandhi Regional Instt. of Health and Medical Sciences, Shillong",Shillong,Govt.,50,0
+Odisha,"All India Institute of Medical Sciences, Bhubaneswar",Bhubaneswar,Govt,100,0
+Odisha,"Hi-Tech Medical College & Hospital, Bhubaneswar",Bhubaneswar,Trust,100,550
+Odisha,"Hi-Tech Medical College & Hospital, Rourkela",Rourkela,Trust,0,450
+Odisha,"Instt. Of Medical Sciences & SUM Hospital, Bhubaneswar",Bhubaneswar,Trust,150,830
+Odisha,"Kalinga Institute of Medical Sciences, Bhubaneswar",Bhubaneswar,Trust,150,1000
+Odisha,"MKCG Medical College, Berhampur",Berhampur,Govt.,250,1062
+Odisha,"Pt. Raghunath Murmu Medical College and Hospital, Baripada",Baripada,Govt,100,0
+Odisha,"Saheed Laxman Nayak Medical College & Hospital, Koraput",Koraput,Govt,100,0
+Odisha,"SCB Medical College, Cuttack",Cuttack,Govt.,250,2066
+Odisha,"Veer Surendra Sai Institute of Medical Sciences and Research, Burla",Burla,Govt.,150,964
+Puducherry,"Aarupadai Veedu Medical College, Pondicherry",Pondicherry,Trust,100,540
+Puducherry,"Indira Gandhi Medical College & Research Institute, Puducherry",Puducherry,Govt.,150,700
+Puducherry,"Jawaharlal Institute of Postgraduate Medical Education & Research,",Puducherry,Govt.,200,1690
+Puducherry,"Mahatma Gandhi Medical College & Research Institute, Pondicherry",Puducherry,Trust,250,950
+Puducherry,"Pondicherry Institute of Medical Sciences & Research, Pondicherry",Puducherry,Trust,150,640
+Puducherry,"Sri Lakshmi Narayana Institute of Medical Sciences, Pondicherry",Puducherry,Trust,150,750
+Puducherry,"Sri Manakula Vinayagar Medical College & Hospital, Pondicherry",Puducherry,Trust,150,800
+Puducherry,"Sri Venkateswaraa Medical College, Hospital & Research Centre, Pondicherry",Puducherry,Trust,150,830
+Puducherry,"Vinayaka Missions Medical College, Pondicherry",Puducherry,Trust,100,730
+Tamil Nadu,"ACS Medical College and Hospital, Chennai",Chennai,Trust,150,700
+Tamil Nadu,"Annaii Medical College & Hospital, Pennalur, , Kanchipuram,",Kacnhipuram,Trust,0,0
+Tamil Nadu,"Annapoorna Medical College & Hospital, Salem",Salem,Trust,150,503
+Tamil Nadu,"Chengalpattu Medical College, Chengalpattu",Chengalpattu,Govt.,100,630
+Tamil Nadu,"Chennai Medical College Hospital and research centre,Irungalur,Trichy",Trichy,Trust,150,750
+Tamil Nadu,"Chettinad Hospital & Research Institute, Kanchipuram",Kanchipuram,Trust,150,1000
+Tamil Nadu,"Christian Medical College, Vellore",Vellore,Trust,100,2695
+Tamil Nadu,"Coimbatore Medical College, Coimbatore",Coimbatore,Govt.,150,1020
+Tamil Nadu,"Dhanalakshmi Srinivasan Medical College and Hospital,Perambalur",Perambalur,Trust,150,500
+Tamil Nadu,"ESI- PGIMSR, ESI Hospital,K.K. Nagar, Chennai",Chennai,Govt.,100,330
+Tamil Nadu,"Government Dharmapuri Medical College, Dharmapuri",Dharmapuri,Govt.,100,500
+Tamil Nadu,"Government Medical College & ESIC Hospital, Coimbatore",Coimbatore,Govt.,100,0
+Tamil Nadu,"Government Sivgangai Medical College, Sivaganga",Sivaganga,Govt.,100,500
+Tamil Nadu,"Government Medical College, Omandurar",Omandurar,Govt.,100,0
+Tamil Nadu,"Govt. Medical College, Pudukottai",Pudukottai,Govt.,150,0
+Tamil Nadu,"Government Thiruvannamalai Medical College, Thiruvannamalai",Thiruvannamalai,Govt.,100,750
+Tamil Nadu,"Government Vellore Medical College, Vellore",Vellore,Govt.,100,750
+Tamil Nadu,"Government Villupuram Medical College, Villupuram",Villupuram,Govt.,100,500
+Tamil Nadu,"IRT Perundurai Medical College, Perndurai",Perundurai,Govt.,100,0
+Tamil Nadu,"K A P Viswanathan Government Medical College, Trichy",Trichy,Govt.,150,621
+Tamil Nadu,"KanyaKumari Government Medical College, Asaripallam",Asaripallam,Govt.,100,600
+Tamil Nadu,"Karpaga Vinayaga Institute of Medical Sciences,Maduranthagam",Maduranthagam,Trust,100,600
+Tamil Nadu,"Karpagam Faculty of Medical Sciences & Research, Coimbatore",Coimbatore,Trust,150,300
+Tamil Nadu,"Kilpauk Medical College, Chennai",Chennai,Govt.,150,1073
+Tamil Nadu,"Madha Medical College and Hospital, Thandalam, Chennai",Chennai,Trust,0,415
+Tamil Nadu,"Madras Medical College, Chennai",Chennai,Govt.,250,2772
+Tamil Nadu,"Madurai Medical College, Madurai",Madurai,Govt.,150,2518
+Tamil Nadu,"Meenakshi Medical College and Research Institute, Enathur",Enathur,Trust,150,840
+Tamil Nadu,Melmaruvathur Adiparasakthi Instt. Medical Sciences and Research,Melmaruvathur,Trust,150,700
+Tamil Nadu,"Mohan Kumaramangalam Medical College, Salem",Salem,Govt.,100,1272
+Tamil Nadu,"Ponnaiyah Ramajayam Institute of Medical Sciences, Manamai, nellur",Nellur,Trust,0,0
+Tamil Nadu,"PSG Institute of Medical Sciences, Coimbatore",Coimbatore,Trust,150,1410
+Tamil Nadu,"Rajah Muthiah Medical College, Annamalainagar",Annamalainagar,Trust,150,700
+Tamil Nadu,"Saveetha Medical College and Hospital, Kanchipuram",Kanchipuram,Trust,150,700
+Tamil Nadu,"Shri Satya Sai Medical College and Research Institute, Kancheepuram",Kanchipuram,Trust,150,700
+Tamil Nadu,"Sree Balaji Medical College and Hospital, Chennai",Chennai,Trust,250,1170
+Tamil Nadu,"Sree Mookambika Institute of Medical Sciences, Kanyakumari",Kanyakumari,Trust,100,560
+Tamil Nadu,"Sri Muthukumaran Medical College,Chennai",Chennai,Trust,150,530
+Tamil Nadu,"Sri Ramachandra Medical College & Research Institute, Chennai",Chennai,Trust,250,1972
+Tamil Nadu,"SRM Medical College Hospital & Research Centre, Kancheepuram",Kancheepuram,Trust,150,1080
+Tamil Nadu,"Stanley Medical College, Chennai",Chennai,Govt.,250,1950
+Tamil Nadu,"Tagore Medical College and Hospital, Chennai",Chennai,Trust,150,530
+Tamil Nadu,"Thanjavur Medical College,Thanjavur",Thanjavur,Govt.,150,678
+Tamil Nadu,"Theni Government Medical College,Theni",Theni,Govt.,100,600
+Tamil Nadu,"Thiruvarur Govt. Medical College, Thiruvarur",Thiruvarur,Govt.,100,500
+Tamil Nadu,"Thoothukudi Medical College, Thoothukudi",Thoothukudi,Govt.,150,1112
+Tamil Nadu,"Tirunelveli Medical College,Tirunelveli",Tirunelveli,Govt.,150,1410
+Tamil Nadu,"Velammal Medical College Hospital and Research Institute, Madurai",Madurai,Trust,150,300
+Tamil Nadu,"Vinayaka Missions Kirupananda Variyar Medical College, Salem",Salem,Trust,100,0
+Telangana,"Apollo Institute of Medical Sciences and Research, Hyderabad",Hyderabad,Trust,100,300
+Telangana,"Bhaskar Medical College, Yenkapally",Yenkapally,Trust,150,790
+Telangana,"Chalmeda Anand Rao Insttitute Of Medical Sciences, Karimnagar",Karimnagar,Trust,150,840
+Telangana,"Deccan College of Medical Sciences, Hyderabad",Hyderabad,Trust,150,515
+Telangana,"Dr. VRK Womens Medical College, Aziznagar",Aziznagar,Trust,100,0
+Telangana,"Employee's State Insurance coporation Medical College, Sanath Nagar,",Hyderabad,Govt.,100,0
+Telangana,"Gandhi Medical College,Secunderabad",Secunderabad,Govt.,200,1560
+Telangana,"Government Medical College, Mahabubnagar",Mahabubnagar,Govt.,150,0
+Telangana,"Government Medical College, Nizamabad",Nizamabad,Govt.,100,500
+Telangana,"Kakatiya Medical College, Wrangal",Wrangal,Govt.,200,1010
+Telangana,"Kamineni Academy of Medical Sciences & Research Center, Hyderabad",Hyderabad,Private,150,1060
+Telangana,"Kamineni Institute of Medical Sciences, Narketpally",Narketpally,Trust,200,1060
+Telangana,"Mahavir Institute of Medical Sciences, Vikarabad",Vikarabad,Trust,0,0
+Telangana,"Maheshwara Medical College, Chitkul, Patancheru, Medak",Medak,Society,150,0
+Telangana,"Malla Reddy Institute of Medical Sciences, Hyderabad",Hyderabad,Society,150,570
+Telangana,"Mallareddy Medical College for Womens, Hyderabad",Hyderabad,Society,0,150
+Telangana,"Mamta Medical College, Khammam",Khammam,Trust,150,0
+Telangana,"Mediciti Institute Of Medical Sciences, Ghanpur",Ghanpur,Trust,100,570
+Telangana,"MNR Medical College & Hospital, Sangareddy",Sangareddy,Trust,100,570
+Telangana,"Osmania Medical College, Hyderabad",Hyderabad,Govt.,250,1168
+Telangana,"Prathima Institute Of Medical Sciences, Karimnagar",Karimnagar,Trust,200,780
+Telangana,"R.V.M. Institute of Medical Sciences and Research Centre, Medak",Medak,Trust,0,0
+Telangana,"Rajiv Gandhi Institute of Medical Sciences, Adilabad",Adilabad,Govt.,100,750
+Telangana,"S V S Medical College, Mehboobnagar",Mehboobnagar,Trust,100,750
+Telangana,"Shadan Institute of Medical Sciences,Research Centre and Teaching Hospital, Peerancheru
+",Peerancheru,Society,150,750
+Delhi,"All India Institute of Medical Sciences, New Delhi",New Delhi,Govt.,50,2362
+Delhi,"Army College of Medical Sciences, New Delhi",New Delhi,Trust,100,999
+Delhi,"Baba Saheb Ambedkar Medical College, Rohini, Delhi",Delhi,Govt.,100,0
+Delhi,"Hamdard Institute of Medical Sciences & Research, New Delhi",New Delhi,Society,0,350
+Delhi,"Lady Hardinge Medical College, New Delhi",New Delhi,Govt.,200,877
+Delhi,"Maulana Azad Medical College, New Delhi",New Delhi,Govt.,250,1500
+Delhi,"North Delhi Muncipal Corporation Medical College, Delhi",New Delhi,Govt.,50,980
+Delhi,"University College of Medical Sciences & GTB Hospital, New Delhi",New Delhi,Govt.,150,872
+Delhi,"Vardhman Institute of Medical Sciences, Pawapuri, Nalanda",New Delhi,Govt.,150,1531
+Gujarat,"Gujarat Adani Institute of Medical Sciences, Bhuj",Bhuj,Trust,150,645
+Gujarat,"Medical College, Baroda",Baroda,Govt.,180,1513
+Gujarat,"MP Shah Medical College,Jamnagar",Jamnagar,Govt.,200,1263
+Gujarat,"Pandit Deendayal Upadhyay Medical College, Rajkot",Rajkot,Govt.,150,850
+Gujarat,"Parul Institute of Medical Sciences & Research, Vadodara",Vadodara,Private,150,550
+Gujarat,"Pramukhswami Medical College, Karmsad",Karmsad,Trust,150,550
+Gujarat,"SBKS Medical Inst. & Research Centre, Vadodra",Vadodra,Trust,150,1120
+Gujarat,"Smt. N.H.L.Municipal Medical College, Ahmedabad",Ahmedabad,Govt.,250,1600
+Gujarat,"Surat Municipal Institute of Medical Education & Research, Surat",Surat,Govt.,150,750
+Gujarat,"Ahmedabad Municipal Cop. Med. Edu. Trust Med. College, Ahmedabad",Ahmedabad,Govt.,150,300
+Gujarat,"B J Medical College, Ahmedabad",Ahmedabad,Govt.,250,2000
+Gujarat,"CU Shah Medical College, Surendra Nagar",Surendra Nagar,Trust,100,570
+Gujarat,"Dr M.K. Saha Medical College and Research Centre, Ahmedabad",Ahmedabad,Trust,150,0
+Gujarat,"GCS Medical College, Ahmedabad",Ahmedabad,Trust,150,425
+Gujarat,"GMERS Medical College, Dharpur Patan",Dharpur Patan,Govt-Society,150,300
+Gujarat,"GMERS Medical College, Gandhinagar",Gandhinagar,Govt-Society,150,300
+Gujarat,"GMERS Medical College, Gotri, Vadodara",Vadodara,Govt-Society,150,415
+Gujarat,"GMERS Medical College,Hadiyol, Himmatnagar",Himmatnagar,Govt-Society,150,300
+Gujarat,"GMERS Medical College, Junagadh",Junagadh,Govt-Society,150,450
+Gujarat,"GMERS Medical College, Sola, Ahmedabad",Ahmedabad,Govt-Society,150,415
+Gujarat,"GMERS Medical CollegeVadnagar, Mehsana",Mehsana,Govt-Society,150,0
+Gujarat,"GMERS Medical College, Valsad",Valsad,Govt-Society,150,300
+Gujarat,"Government Medical College, Bhavnagar",Bhavnagar,Govt.,150,709
+Gujarat,"Government Medical College, Surat",Surat,Govt.,150,1050
+Gujarat,"Ahmedabad Municipal Cop. Med. Edu. Trust Med. College, Ahmedabad",Ahmedabad,Govt.,150,300
+Gujarat,"B J Medical College, Ahmedabad",Ahmedabad,Govt.,250,2000
+Gujarat,"CU Shah Medical College, Surendra Nagar",Surendra Nagar,Trust,100,570
+Gujarat,"Dr M.K. Saha Medical College and Research Centre, Ahmedabad",Ahmedabad,Trust,150,0
+Gujarat,"GCS Medical College, Ahmedabad",Ahmedabad,Trust,150,425
+Gujarat,"GMERS Medical College, Dharpur Patan",Dharpur Patan,Govt-Society,150,300
+Gujarat,"GMERS Medical College, Gandhinagar",Gandhinagar,Govt-Society,150,300
+Gujarat,"GMERS Medical College, Gotri, Vadodara",Vadodara,Govt-Society,150,415
+Gujarat,"GMERS Medical College,Hadiyol, Himmatnagar",Himmatnagar,Govt-Society,150,300
+Gujarat,"GMERS Medical College, Junagadh",Junagadh,Govt-Society,150,450
+Gujarat,"GMERS Medical College, Sola, Ahmedabad",Ahmedabad,Govt-Society,150,415
+Gujarat,"GMERS Medical CollegeVadnagar, Mehsana",Mehsana,Govt-Society,150,0
+Gujarat,"GMERS Medical College, Valsad",Valsad,Govt-Society,150,300
+Gujarat,"Government Medical College, Bhavnagar",Bhavnagar,Govt.,150,709
+Gujarat,"Government Medical College, Surat",Surat,Govt.,150,1050
+Gujarat,"Gujarat Adani Institute of Medical Sciences, Bhuj",Bhuj,Govt.,150,645
+Gujarat,"Medical College, Baroda",Baroda,Govt.,180,1513
+Gujarat,"MP Shah Medical College,Jamnagar",Jamnagar,Govt.,200,1263
+Gujarat,"Pandit Deendayal Upadhyay Medical College, Rajkot",Rajkot,Private,150,850
+Gujarat,"Parul Institute of Medical Sciences & Research, Vadodara",Vadodara,Trust,150,550
+Gujarat,"Pramukhswami Medical College, Karmsad",Karmsad,Trust,150,550
+Gujarat,"SBKS Medical Inst. & Research Centre, Vadodra",Vadodra,Govt.,150,1120
+Gujarat,"Smt. N.H.L.Municipal Medical College, Ahmedabad",Ahmedabad,Govt.,250,1600
+Gujarat,"Surat Municipal Institute of Medical Education & Research, Surat",Surat,,150,750
+Kerala,"Academy of Medical Sciences,Pariyaram, Kannur",Kannur,Trust,100,1200
+Kerala,"Al-Azhar Medical College and Super Speciality Hospital, Thodupuzha",Thodupuzha,Trust,0,380
+Kerala,"Amala Institute of Medical Sciences, Thrissur",Thrissur,Trust,100,570
+Kerala,"Amrita School of Medicine, Elamkara, Kochi",Kochi,Trust,100,1250
+Kerala,"Azeezia Instt of Medical Science,Meeyannoor,Kollam",Kollam,Trust,100,500
+Kerala,"Belivers Church Medical College Hospital, Thiruvalla",Thiruvalla,Trust,100,0
+Kerala,"DM Wayanad Institute of Medical Sciences, Wayanad, Kerala",Wayanad,Trust,0,0
+Kerala,"Dr. Somervel Memorial CSI Hospital & Medical College, Karakonam, Thiruvananthapuram",Thiruvananthapuram,Trust,150,550
+Kerala,"Government Medical College, Ernakulam",Ernakulam,Govt,100,0
+Kerala,"Government Medical College, Kottayam",Kottayam,Govt.,150,910
+Kerala,"Government Medical College, Kozhikode, Calicut",Calicut,Govt.,250,3080
+Kerala,"Government Medical College, Manjeri, Malapuram Dist.",Malapuram,Govt.,100,501
+Kerala,"Government Medical College, Painav, Idukki",Idukki,Govt.,0,300
+Kerala,"Government Medical College, Parippally, Kollam",Kollam,Govt.,100,0
+Kerala,"Government Medical College, Thrissur",Thrissur,Govt.,150,2350
+Kerala,"Govt Medical College, Yakkara, Palakkad",Palakkad,Govt.,100,750
+Kerala,"Jubilee Mission Medical College & Research Institute, Thrissur",Thrissur,Trust,100,1620
+Kerala,"Kannur Medical College, Kannur",Kannur,Trust,100,750
+Kerala,"Karuna Medical College, Palakkad",Palakkad,Trust,100,500
+Kerala,"Kerala Medical College, Mangode, Palakkad",Palakkad,Trust,0,0
+Kerala,"KMCT Medical College,Kozhikode, Calicut",Calicut,Trust,150,500
+Kerala,"M E S Medical College , Perintalmanna Malappuram Distt.Kerala",Malappuram,Trust,100,630
+Kerala,"Malabar Medical College, Kozhikode,Calicut",Calicut,Trust,150,415
+Kerala,"Malankara Orthodox Syrian Church Medical College, Kolenchery",Kolenchery,Trust,100,1200
+Kerala,"Medical College, Thiruvananthapuram",Thiruvananthapuram,Govt.,200,0
+Kerala,"Mount Zion Medical College, Chayalode, Ezhamkulam Adoor, Pathanamthitta",Pathanamthitta,Society,0,0
+Kerala,"P K Das Institute of Medical Sciences, Palakkad, Kerala","Palakkad,",Trust,150,0
+Kerala,"Pushpagiri Institute Of Medical Sciences and Research Centre, Tiruvalla",Tiruvalla,Trust,100,1200
+Kerala,"S.R. Medical College & Research Centre, Akathumjuri, Vennicode, Varkala, Thiruvananthapuram",Thiruvananthapuram,Trust,0,0
+Kerala,"Sree Narayana Instt. of Medical Sciences, Chalakka,Ernakulam",Ernakulam,Trust,100,500
+Kerala,"Sree Uthradom Thiurnal Academy of Medical Sciences,Trivandrum",Trivandrum,Trust,100,500
+Kerala,"Sri Gokulam Medical College Trust & Research Foundation, Trivandrum",Trivandrum,Trust,150,600
+Kerala,"T D Medical College, Alleppey (Allappuzha)",Alleppey,Govt.,150,1051
+Kerala,"Travancore Medical College, Kollam",Kollam,Trust,100,500
+Madhya Pradesh,"Advance Institute of Medical Sciences and Research Centre, Bhopal",Bhopal,Society,0,0
+Madhya Pradesh,"All India Institute of Medical Sciences, Bhopal",Bhopal,Govt.,100,0
+Madhya Pradesh,"Amaltas Institute of Medical Sciences, Dewas",Dewas,Society,150,300
+Madhya Pradesh,"Bundelkhand Medical College, Sagar",Sagar,Govt.,100,650
+Madhya Pradesh,"Chirayu Medical College and Hospital, Bairagarh,Bhopal",Bhopal,Trust,150,1000
+Madhya Pradesh,"Gajra Raja Medical College, Gwalior",Gwalior,Govt.,150,1100
+Madhya Pradesh,"Gandhi Medical College, Bhopal",Bhopal,Govt.,150,1200
+Madhya Pradesh,"Index Medical College Hospital & Research Centre,Indore",Indore,Trust,150,1100
+Madhya Pradesh,"L.N. Medical College and Research Centre,Bhopal",Bhopal,Trust,150,750
+Madhya Pradesh,"M G M Medical College, Indore",Indore,Govt.,150,1500
+Madhya Pradesh,"Modern Institute of Medical Sciences, Kanadia, Indore",Indore,Society,0,300
+Madhya Pradesh,"Netaji Subhash Chandra Bose Medical College, Jabalpur",Jabalpur,Govt.,150,819
+Madhya Pradesh,"Peoples College of Medical Sciences & Research Centre, Bhanpur, Bhopal",Bhopal,Trust,150,650
+Madhya Pradesh,"RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal",Bhopal,Society,150,320
+Madhya Pradesh,"Ruxmaniben Deepchand Gardi Medical College, Ujjain",Ujjain,Trust,150,585
+Madhya Pradesh,"Sakshi Medical College & Research Centre, Guna",Guna,Society,0,300
+Madhya Pradesh,"Shyam Shah Medical College, Rewa",Rewa,Govt.,100,1150
+Madhya Pradesh,"Sri Aurobindo Medical College and Post Graduate Institute , Indore",Indore,Trust,150,1140
+Madhya Pradesh,"Sukh Sagar Medical College and Hospital, Jabalpur",Jabalpur,Trust,0,300
+Uttarakhand,"All India Institute of Medical Sciences, Rishikesh",Rishikesh,Govt,100,0
+Uttarakhand,"Doon Medical College, Dehradun Dehradun",Dehradun,Govt,150,300
+Uttarakhand,Government Medical College (Prev.Uttarakhand Forest Hospital Trust,Haldwani,Govt,100,600
+Uttarakhand,"Himalayan Institute of Medical Sciences, Dehradun",Dehradun,Trust,150,750
+Uttarakhand,"Shri Guru Ram Rai Institute of Medical & Health Sciences, Dehradun",Dehradun,Society,150,1000
+Uttarakhand,"Sridev Suman Subharti Medical College, Dehradun",Dehradun,Trust,150,350
+Uttarakhand,"Veer Chandra Singh Garhwali Govt. Medical Sc. & Research Instt, Srinagar, Pauri Garhwal",Srinagar,Govt.,150,300
+Bihar,"All India Institute of Medical Sciences Patna, Bihar",Patna,Govt,100,0
+Bihar,"Anugrah Narayan Magadh Medical College, Gaya",Gaya,Govt.,100,544
+Bihar,"Darbhanga Medical College, Lehriasarai",Lehriasarai,Govt.,100,1030
+Bihar,"Government Medical College, Bettiah",Bettiah,Govt.,100,315
+Bihar,"Indira Gandhi Institute of Medical Sciences,Sheikhpura Patna",Patna,Govt.,100,500
+Bihar,"Jawaharlal Nehru Medical College, Bhagalpur",Bhagalpur,Govt.,100,659
+Bihar,"Katihar Medical College, Katihar",Katihar,Trust,100,580
+Bihar,"Mata Gujri Memorial Medical College, Kishanganj Kishanganj Trust 100 NA",Kishanganj,Trust,100,0
+Bihar,"Nalanda Medical College, Patna",Patna,Govt.,100,752
+Bihar,"Narayan Medical College & Hospital, Sasaram",Sasaram,Trust,100,500
+Bihar,"Patna Medical College, Patna",Patna,Govt.,150,1675
+Bihar,"Shri Krishna Medical College, Muzzafarpur Muzzafarpur Govt. 100 612",Muzzafarpur,Govt.,100,612
+Bihar,"Vardhman Institute of Medical Sciences, Pawapuri, Nalanda Nalanda Govt.",Nalanda,Govt.,100,0
+Uttar Pradesh,"BRD Medical College, Gorakhpur",Gorakhpur,Govt.,100,900
+Uttar Pradesh,"Career Instt. Of Medical Sciences & Hospital, Lucknow",Lucknow,Trust,100,400
+Uttar Pradesh,"Dr. Ram Manohar Lohia Institute of Medical Sciences, Lucknow",Lucknow,Govt,150,0
+Uttar Pradesh,"Era Lucknow Medical College , Lucknow",Lucknow,Trust,150,700
+Uttar Pradesh,"F.H. Medical College & Hospital, Firozabad",Firozabad,Trust,150,350
+Uttar Pradesh,"G.C.R.G. Institute of Medical Sciences, Lucknow",Lucknow,Trust,0,300
+Uttar Pradesh,"G.S. Medical College, & Hospital, Hapur",Hapur,Trust,150,0
+Uttar Pradesh,"Glocal Medical College, Super Specility Hospital & Research Centre,",Saharanpur,Trust,0,300
+Uttar Pradesh,"Government Allopathic Medical College, Banda, UP",Banda,Govt.,100,0
+Uttar Pradesh,"Government Medical College & Super facility Hospital, Azamgarh",Azamgarh,Govt.,100,140
+Uttar Pradesh,"Government Medical College, Kannauj",Kannauj,Govt.,100,300
+Uttar Pradesh,"GSVM Medial College, Kanpur",Kanpur,Govt.,190,1825
+Uttar Pradesh,"Heritage Institute of Medical Sciences, Varanasi",Varanasi,Private,150,300
+Uttar Pradesh,"Hind Institute of Medical Sciences , Barabanki",Barabanki,Trust,100,350
+Uttar Pradesh,"Hind Institute of Medical Sciences, Sitapur.",Sitapur,Trust,0,300
+Uttar Pradesh,"Institute of Medical Sciences, BHU, Varanasi",Varanasi,Govt.,84,1200
+Uttar Pradesh,"Integral Institute of Medical Sciences & Research, Lucknow",Lucknow,Private,100,350
+Uttar Pradesh,"Jawaharlal Nehru Medical College, Aligarh",Aligarh,Govt.,150,1250
+Uttar Pradesh,"K.D.Medical college & Research Centre, Mathura",Mathura,Society,150,300
+Uttar Pradesh,"King George Medical University, Lucknow",Lucknow,Govt,250,1250
+Uttar Pradesh,"Krishna Mohan Medical College & Hospital, Mathura.",Mathura,Society,0,300
+Uttar Pradesh,"LLRM Medical College, Merrut",Merrut,Govt.,150,1040
+Uttar Pradesh,"Mahamaya Rajkiya Allopathic Medical College, Ambedkarnagar",Ambedkarnagar,Govt.,100,450
+Uttar Pradesh,"Maharani Laxmi Bai Medical College, Jhansi",Jhansi,Govt.,100,700
+Uttar Pradesh,"Major S D Singh Medical College and Hospital, Fathehgarh, Farrukhabad",Farrukhabad,Trust,0,350
+Uttar Pradesh,Manyavar Kanshi Ram Ji Government Allopathic Medical College,Kanpur,Govt.,100,300
+Uttar Pradesh,"Mayo Institute of Medical Sciences, Barabanki",Barabanki,Trust,150,300
+Uttar Pradesh,"Moti Lal Nehru Medical College, Allahabad",Allahabad,Govt.,150,850
+Uttar Pradesh,"Muzaffarnagar Medical College, Muzaffarnagar",Muzaffarnagar,Trust,150,500
+Uttar Pradesh,"Prasad Institute of Medical Sciences, Lucknow",Lucknow,Trust,0,350
+Uttar Pradesh,"Rajshree Medical Research Institute, Bareilly",Bareilly,Trust,150,300
+Uttar Pradesh,"Rama Medical College and Hospital , Kanpur",Kanpur,Trust,100,693
+Uttar Pradesh,"Rama Medical College Hospital and Research Centre, Hapur",Hapur,Trust,150,600
+Uttar Pradesh,Rohilkhand Medical College & Hospital,Bareilly,Trust,150,600
+Uttar Pradesh,S N Medical College,Agra,Govt,150,1047
+Uttar Pradesh,Santosh Medical College,Ghaziabad,Trust,100,700
+Uttar Pradesh, Saraswati Institute of Medical Sciences,Hapur,Trust,100,500
+Uttar Pradesh,Saraswati Institute of Medical Sciences,Unnao,Trust,150,320
+Uttar Pradesh,Greater Noida Greater Noida Trust 150 500,Greater Noida,Trust,150,500
+Uttar Pradesh,Shaikh-UL-Hind Maulana Mahmood Hasan Medical College,Saharanpur,Govt,100,650
+Uttar Pradesh,Shri Ram Murti Smarak Institute of Medical Sciences,Bareilly,Trust,100,650
+Uttar Pradesh,Subharti Medical College,Meerut,Trust,100,800
+Uttar Pradesh,T.S Mishra Medical College & Hospital,Lucknow Lucknow Private 150 300,Private,150,300
+Uttar Pradesh,Teerthanker Mahaveer Medical College,Moradabad,Trust,150,550
+Uttar Pradesh,U.P. Rural Institute of Medical Sciences & Research,Etawah,Govt.,150,750
+Uttar Pradesh,Varun Arjun Medical College,Sahajahanpur Sahajahanpur Trust 0 300,Trust,0,300
+Uttar Pradesh,Venkateshwara Institute of Medical Sciences,Gajarula,Trust,0,300
+West Bengal,"West Bengal Bankura Sammilani Medical College, Bankura Bankura Govt. 150 1217",Bankura,Govt,150,1217
+West Bengal,"Burdwan Medical College, Burdwan",Burdwan,Govt,150,1105
+West Bengal,"Calcutta National Medical College, Kolkata",Kolkata,Govt,200,1470
+West Bengal,"College of Medicine and JNM Hospital,Kalyani,Nadia",Nadia,Govt,100,0
+West Bengal,"College of Medicine and Sagore Dutta Hospital, Kolkata",Kolkata,Govt,100,900
+West Bengal,"Employees State Insurance Corporation Medical College, Joka, Kolkata",Kolkata,Govt,100,550
+West Bengal,"Gauri Devi Institute of Medical Sciences and Hospital, Durgapur",Durgapur,Govt,0,0
+West Bengal,"ICARE Institute of Med. Sciences & Research, Haldia",Haldia,Trust,0,0
+West Bengal,"Institute of Postgraduate Medical Education & Research, Kolkata",Kolkata,Govt,150,1775
+West Bengal,"IQ-City Medical College, Burdwan",Burdwan,Trust,0,322
+West Bengal,"KPC Medical College,Jadavpur, Kolkata",Kolkata,Trust,150,750
+West Bengal,"Malda Medical College & Hospital, Malda",Malda,Govt,100,750
+West Bengal,"Medical College, Kolkata",Kolkata,Govt,250,2010
+West Bengal,"Midnapore Medical College, Midnapore",Midnapore,Govt,150,740
+West Bengal,"Murshidabad Medical College & Hospitals, Murshidabad",Murshidabad,Govt,100,820
+West Bengal,"Nilratan Sircar Medical College, Kolkata",Kolkata,Govt,250,1890
+West Bengal,"North Bengal Medical College, Darjeeling Siliguri",Siliguri,Govt,150,599
+West Bengal,"RG Kar Medical College, Kolkata",Kolkata,Govt,200,1210

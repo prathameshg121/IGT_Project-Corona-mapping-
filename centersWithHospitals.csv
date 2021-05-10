@@ -1,0 +1,5 @@
+,center_id,name,address,state_name,district_name,block_name,pincode,lat,long,from,to,fee_type,session_id,date,available_capacity,min_age_limit,vaccine,slots
+0,561810,Garladinne PHC,Beside MRO Office,Andhra Pradesh,Anantapur,Garladinne,515731,14,77,09:00:00,18:00:00,Free,f7dde987-e3b6-4947-97ee-a85cf19e25d7,11-05-2021,0,45,COVISHIELD,09:00AM-11:00AM
+1,561810,Garladinne PHC,Beside MRO Office,Andhra Pradesh,Anantapur,Garladinne,515731,14,77,09:00:00,18:00:00,Free,f7dde987-e3b6-4947-97ee-a85cf19e25d7,11-05-2021,0,45,COVISHIELD,11:00AM-01:00PM
+2,561810,Garladinne PHC,Beside MRO Office,Andhra Pradesh,Anantapur,Garladinne,515731,14,77,09:00:00,18:00:00,Free,f7dde987-e3b6-4947-97ee-a85cf19e25d7,11-05-2021,0,45,COVISHIELD,01:00PM-03:00PM
+3,561810,Garladinne PHC,Beside MRO Office,Andhra Pradesh,Anantapur,Garladinne,515731,14,77,09:00:00,18:00:00,Free,f7dde987-e3b6-4947-97ee-a85cf19e25d7,11-05-2021,0,45,COVISHIELD,03:00PM-06:00PM
