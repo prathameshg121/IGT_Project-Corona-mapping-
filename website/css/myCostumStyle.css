@@ -1,0 +1,97 @@
+body{
+
+  background-color: gradient(circle, rgb(65, 102, 202) -60%, rgba(0, 0, 0, 0.8901960784313725) 75%);
+    background: -webkit-radial-gradient(circle, rgb(65, 102, 202) -60%, rgba(0, 0, 0, 0.8901960784313725) 75%);
+    background: -moz-radial-gradient(circle, rgb(65, 102, 202) -60%, rgba(0, 0, 0, 0.8901960784313725) 75%);
+    background: -o-radial-gradient(circle, rgb(65, 102, 202) -60%, rgba(0, 0, 0, 0.8901960784313725) 75%);
+
+}
+#map{
+  margin : 150px;
+  margin-top: 50px;
+  width: 1300px;
+  height: 672px;
+  border: 5px solid #3edbf0;
+border-radius: 15px;
+
+}
+
+.info1{
+  color: white;
+  text-align: center;
+  margin: 20px;
+}
+
+
+
+.index1{
+  color: white;
+  align-content: center;
+  margin-left: 841px;
+}
+
+/* data reconization colour */
+
+.stateName{
+  color: purple;
+}
+.stateActiveCases{
+  color: red;
+}
+.statePositeCasesToday{
+  color: #f21170;
+}
+.statePositeCasesYester{
+  color: #fa9905;
+}
+.stateCuredCasesToday{
+  color: #81b214;
+}
+.stateCuredCasesYesterday{
+  color: #29bb89;
+}
+.stateDeathToday{
+  color: #be0000;
+}
+.stateDeathYesterday{
+  color: #2b2e4a;
+}
+.stateid{
+  color: #007580;
+}
+
+
+/* lebel indx */
+.backLayer{
+  color: white;
+}
+
+
+.legend {
+  width: 200px;
+  height: 300px;
+  background: rgba(255,255,255, .8);
+  position: absolute;
+  bottom: 100px;
+  left: 500px;
+  padding: 5px;
+/*   // display: flex; */
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.item {
+  width: 18px;
+  height: 18px;
+  margin-bottom: 7px;
+  border-radius: 100%;
+  border: 1px solid rgba(0,0,0, .3);
+}
+
+.item-value {
+  font-size: 15px;
+  margin-left: 10px;
+  height: 17px;
+  line-height: 17px;
+  margin-bottom: 8px;
+}
