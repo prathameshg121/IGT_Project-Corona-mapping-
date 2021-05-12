@@ -1,6 +1,3 @@
-
-# These are the imports, i pip installed some of them.
-# Some of them are built in.
 import datetime
 import json
 import numpy as np
@@ -9,20 +6,26 @@ import pandas as pd
 import streamlit as st
 from copy import deepcopy
 
-# This is for the heading of the page and the initial configurations.
-st.set_page_config(page_title="Vaccine Tracker",page_icon="🦠",layout='wide', initial_sidebar_state='collapsed')
+browser_header = {'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"}
 
-# This is to avoid unnecessary warnings.
+st.set_page_config(layout='wide', initial_sidebar_state='collapsed')
+
 @st.cache(allow_output_mutation=True, suppress_st_warning=True)
+def load_mapping():
+    df = pd.read_csv("district_mapping.csv")
+    return df
 
 def filter_column(df, col, value):
     df_temp = deepcopy(df.loc[df[col] == value, :])
     return df_temp
 
-# This loads all the district with their codes into their mapping dataframe.
-mapping_df = pd.read_csv("district_mapping.csv")
+def filter_capacity(df, col, value):
+    df_temp = deepcopy(df.loc[df[col] > value, :])
+    return df_temp
 
-# Creating a dictionary of {district_id: district_name}
+
+mapping_df = load_mapping()
+
 mapping_dict = pd.Series(mapping_df["district id"].values,
                          index = mapping_df["district name"].values).to_dict()
 
@@ -30,6 +33,7 @@ rename_mapping = {
     'date': 'Date',
     'min_age_limit': 'Minimum Age Limit',
     'available_capacity': 'Available Capacity',
+    'vaccine': 'Vaccine',
     'pincode': 'Pincode',
     'name': 'Hospital Name',
     'state_name' : 'State',
@@ -38,60 +42,49 @@ rename_mapping = {
     'fee_type' : 'Fees'
     }
 
-# st.title('CoWIN Vaccination Slot Availability')
+st.title('CoWIN Vaccination Slot Availability')
 
-# numdays = st.sidebar.slider('Select Date Range', 0, 100, 10)
-
-# Sorting districts wrto their names.
 unique_districts = list(mapping_df["district name"].unique())
 unique_districts.sort()
 
-
 left_column_1, right_column_1 = st.beta_columns(2)
-
-# This for setting the date limit upto which we can see the appointments.
 with left_column_1:
     numdays = st.slider('Select Date Range', 0, 100, 5)
 
-# Todo: mapping districts on map.
 with right_column_1:
-    dist_input = st.selectbox('Select District', unique_districts)
+    dist_inp = st.selectbox('Select District', unique_districts)
 
-district_id = mapping_dict[dist_input]
+DIST_ID = mapping_dict[dist_inp]
 
-base = datetime.datetime.today()  # This sets the base date as is today.
-date_list = [base + datetime.timedelta(days=x) for x in range(numdays)] # This creates the list for the selected no. of days
-date_str = [x.strftime("%d-%m-%Y") for x in date_list] # This creates the date string list for the respective days.
+base = datetime.datetime.today()
+date_list = [base + datetime.timedelta(days=x) for x in range(numdays)]
+date_str = [x.strftime("%d-%m-%Y") for x in date_list]
 
 final_df = None
-for input_date in date_str:
-    # Getting response per date from the co-vin api which stores all the appointments to come and converting to json
-    URL = f"https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByDistrict?district_id={dist_input}&date={input_date}"
-    response = requests.get(URL)
-    # If the list of centers is available then printing the center information based on the age limit
+for INP_DATE in date_str:
+    URL = "https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByDistrict?district_id={}&date={}".format(DIST_ID, INP_DATE)
+    response = requests.get(URL, headers=browser_header)
     if (response.ok) and ('centers' in json.loads(response.text)):
         resp_json = json.loads(response.text)['centers']
-        print(resp_json.address)
         if resp_json is not None:
             df = pd.DataFrame(resp_json)
             if len(df):
                 df = df.explode("sessions")
                 df['min_age_limit'] = df.sessions.apply(lambda x: x['min_age_limit'])
+                df['vaccine'] = df.sessions.apply(lambda x: x['vaccine'])
                 df['available_capacity'] = df.sessions.apply(lambda x: x['available_capacity'])
                 df['date'] = df.sessions.apply(lambda x: x['date'])
-                df = df[["date", "available_capacity", "min_age_limit", "pincode", "name", "state_name", "district_name", "block_name", "fee_type"]]
+                df = df[["date", "available_capacity", "vaccine", "min_age_limit", "pincode", "name", "state_name", "district_name", "block_name", "fee_type"]]
                 if final_df is not None:
                     final_df = pd.concat([final_df, df])
                 else:
                     final_df = deepcopy(df)
-            else:
-                st.error("No rows in the data Extracted from the API")
 
-if len(final_df):
+if (final_df is not None) and (len(final_df)):
     final_df.drop_duplicates(inplace=True)
     final_df.rename(columns=rename_mapping, inplace=True)
 
-    left_column_2, center_column_2, right_column_2 = st.beta_columns(3)
+    left_column_2, center_column_2, right_column_2, right_column_2a = st.beta_columns(4)
     with left_column_2:
         valid_pincodes = list(np.unique(final_df["Pincode"].values))
         pincode_inp = st.selectbox('Select Pincode', [""] + valid_pincodes)
@@ -110,8 +103,14 @@ if len(final_df):
         if pay_inp != "":
             final_df = filter_column(final_df, "Fees", pay_inp)
 
+    with right_column_2a:
+        valid_capacity = ["Available"]
+        cap_inp = st.selectbox('Select Availablilty', [""] + valid_capacity)
+        if cap_inp != "":
+            final_df = filter_capacity(final_df, "Available Capacity", 0)
+
     table = deepcopy(final_df)
     table.reset_index(inplace=True, drop=True)
     st.table(table)
 else:
-    st.error("No Data Found")
+    st.error("Unable to fetch data currently, please try after sometime")
